@@ -1,0 +1,240 @@
+# The Tech New Deal & the Authenticity Revolution
+**A Federal Sociotechnical Framework for Dismantling Extractive Systems and Governing High-Risk Technology**
+
+**Author:** Jedediah Jaleal Ross
+**Date:** January 2026
+**Status:** Draft for Federal Review
+
+---
+
+## Abstract
+The contemporary digital economy increasingly operates as an extractive system in which human experience is converted into behavioral surplus for prediction, monetization, and control. While dominant governance responses treat algorithmic bias as a technical defect solvable through procedural audits or transparency measures, this paper argues the crisis is structural: modern computational systems are optimized for extraction as an objective function, requiring the systematic reduction of human complexity into legible, governable data points. This logic has expanded beyond consumer platforms into high-stakes state domains—particularly predictive policing, real-time surveillance integration, and carceral algorithmic decision systems—where feedback loops amplify historical bias and degrade civil liberties while imposing psychosocial, ecological, and physical sustainability costs. 
+
+In response, this paper advances a federal policy framework composed of two interlocking interventions: (1) the **Tech New Deal**, a governance standard requiring a Dignity Baseline and Total Sustainability compliance for high-impact systems; and (2) the **Authenticity Revolution**, a shift from inferred-intent technologies toward privacy-preserving verification infrastructure using decentralized identity, verifiable credentials, and zero-knowledge proofs. The paper concludes with an implementable federal policy package including procurement restrictions, mandatory dignity impact assessments, sustainability reporting, community governance mechanisms, strict liability for dignity violations, and a proposed “Right to Non-Extraction” for participation in essential services without behavioral harvesting.
+
+**Keywords:** *surveillance capitalism, predictive policing, algorithmic governance, civil rights, capability approach, privacy-preserving verification, zero-knowledge proofs, decentralized identity.*
+
+---
+
+## Executive Summary (Federal Policy Brief)
+
+### The Problem
+The United States is rapidly normalizing extractive digital governance: systems that convert behavioral data into prediction-based decision tools used for profit, administrative control, and carceral enforcement. This logic has expanded into high-stakes domains (policing, housing, employment, healthcare eligibility, education), where automated inference is increasingly treated as legitimate evidence.
+
+> **Key Finding:** Algorithmic harm is not primarily a “bias bug.” It is an objective-function failure: modern data systems are structurally designed to extract, infer, and optimize behavior rather than preserve dignity or sustainability.
+
+### Core Risks
+* **Civil rights degradation:** Inference-based systems replicate discriminatory patterns by laundering biased history into “neutral” predictions (Algorithm Watch, 2025; The Markup, 2023).
+* **Carceral expansion:** Predictive policing and real-time surveillance platforms accelerate preemptive state power while lowering accountability thresholds (Tech Policy Press, 2024).
+* **Psychosocial injury:** Mass surveillance increases anxiety, cognitive load, and autonomy loss (UTS Online Education, 2025; NIH/PMC, 2024).
+* **System fragility:** Prediction systems generate feedback loops that intensify bias and institutional mistrust (Nature, 2024).
+* **Ecological cost:** Large-scale AI and surveillance infrastructure expands energy and material extraction burdens (Nature, 2024).
+
+### The Solution
+This paper proposes two linked interventions:
+1.  **The Tech New Deal:** A federal governance standard requiring that high-impact systems comply with:
+    * *Dignity Baseline:* Non-extractive access to essential capabilities and core civil liberties protections.
+    * *Total Sustainability:* Enforceable ecological, psychosocial, and physical sustainability thresholds.
+2.  **The Authenticity Revolution:** A technical governance shift from *inferred intent* (prediction) to *verifiable integrity* (proof), using privacy-preserving verification rather than surveillance.
+
+### Federal Policy Package (Actionable)
+This paper recommends:
+* Federal procurement restrictions and funding conditions on predictive policing and high-risk surveillance systems.
+* Mandatory **Dignity Impact Assessments** before deployment.
+* Annual **Total Sustainability** reporting for covered systems.
+* Strict liability + private right of action for dignity violations.
+* A federal **Right to Non-Extraction** for essential services.
+* Support for privacy-preserving verification infrastructure (verifiable credentials, zero-knowledge proofs).
+
+---
+
+## 1. Introduction: The Crisis of Extractive Simulation
+The dominant technological model of the 21st century is not neutral computation; it is organized extraction. This paper defines **Extractive Simulation** as a sociotechnical system in which lived human reality is continuously converted into data, modeled into predictive abstractions, and operationalized into decisions that shape both economic opportunity and state coercion. Extractive simulation is not limited to consumer advertising. It increasingly governs employment monitoring, credit eligibility, healthcare triage, and, most urgently, criminal-legal decision-making.
+
+Predictive policing platforms, real-time crime centers, and AI surveillance infrastructures represent the institutional maturation of extractive simulation. These systems are marketed as tools of efficiency and public safety. Yet empirical investigations and policy critiques repeatedly demonstrate low predictive accuracy, discriminatory enforcement amplification, and expansive downstream harms (The Markup, 2023; Tech Policy Press, 2024; Algorithm Watch, 2025). They may fail at prediction, but they succeed at legitimation: producing “objective” rationales for the concentration of policing and surveillance in already over-targeted communities.
+
+Most governance discourse treats algorithmic bias as correctable through technical improvement: better datasets, more audits, more transparency. This paper argues that such approaches are necessary but structurally insufficient. Extraction systems cannot be ethically repaired through procedural fixes if their core purpose remains behavior capture and predictive control.
+
+The solution must be systemic and enforceable at the federal level—through standards, procurement, liability, and civil rights law. The framework proposed here combines sociological diagnosis with implementable policy design.
+
+---
+
+## 2. Theoretical Framework: Extraction as an Objective Function
+
+### 2.1 Surveillance Capitalism and Behavioral Surplus
+Surveillance capitalism describes an economic logic in which data about human behavior becomes a raw material for prediction and profit (Zuboff, 2019). The critical transformation is not “data collection” alone, but the conversion of experience into *behavioral surplus*—the excess extractable behavioral signals that can be sold as predictive products.
+
+This logic has proven portable. It scales not only across industries but across institutions. When predictive modeling moves into governance systems, the same extraction infrastructure becomes a tool of administrative decision power.
+* **In the market:** Extraction drives persuasion and behavioral influence.
+* **In the state:** Extraction drives classification and coercive legitimacy.
+
+This paper treats the carceral use-case as the clearest demonstration that surveillance capitalism is not only economic; it is political.
+
+### 2.2 The Flattening Problem: Why Predictive Systems Require Dehumanization
+Predictive systems depend on compressing complex human life into machine-legible categories. This flattening is often framed as a technical limitation. In reality, it is the core precondition for extraction-based optimization.
+
+Humans are not stable input-output functions. Yet systems optimized for prediction require treating them as such. In doing so, these systems systematically exclude context, relationship, agency, meaning-making, and self-determined intent. Flattening therefore creates not only misclassification harms, but an ontological violence: the loss of personhood recognition within institutional decision systems.
+
+### 2.3 Feedback Loops and Bias Amplification
+Predictive policing illustrates the feedback loop problem with unusual clarity. When enforcement history is biased, then training data is biased. If the model then directs policing attention back into the same communities, the enforcement bias reproduces itself as fresh “evidence” (Human Rights Data Analysis Group, 2019; The Markup, 2023).
+
+This dynamic transforms bias into an engine of legitimacy:
+> **Biased enforcement → Biased data → Biased prediction → Biased deployment → Increased biased enforcement.**
+
+Recent work on human–AI feedback loops suggests a deeper hazard: biased systems don’t only reproduce data errors—they can reshape human judgment over time, escalating bias through human-machine interaction (Nature, 2024).
+
+---
+
+## 3. Carceral AI as Extractive Governance Infrastructure
+
+### 3.1 The Platformization of Policing
+Three categories of tools represent the platformization of policing:
+1.  **Data fusion and intelligence analysis platforms:** Systems designed to integrate records, networks, and histories into legible risk profiles.
+2.  **Real-time crime center (RTCC) operational platforms:** Systems that aggregate dispatch data, license plate readers, incident reports, body camera interfaces, and cross-agency search.
+3.  **AI surveillance infrastructure:** Systems that convert perception into alerting and tracking (object detection, motion analytics, classification, and sometimes identity inference).
+
+These are not separate technologies. Together they form a pipeline: from **capture** → to **integration** → to **inference** → to **enforcement deployment**.
+
+### 3.2 Predictive Policing as a Rights-Degenerating Model
+Predictive policing is often defended as resource allocation. Yet multiple investigations suggest it performs poorly at prediction while producing discriminatory concentration effects (The Markup, 2023; Tech Policy Press, 2024).
+
+A crucial federal insight follows: If the technology fails at its primary claim (accurate prediction), but expands coercive targeting, then its practical purpose is not prediction—it is *legitimized intensification*. This is why the appropriate regulatory category is not “software.” It is high-risk governance infrastructure.
+
+### 3.3 Surveillance as Psychosocial Harm
+Surveillance systems impose ongoing psychological cost: anxiety, reduced autonomy, social withdrawal, and elevated cognitive load (NIH/PMC, 2024; UTS Online Education, 2025). These are not “soft” harms. They are measurable constraints on human functioning.
+
+Worker surveillance research reinforces the same pattern: monitoring increases stress and injury risk while lowering trust and stability (HR Dive, 2026). As surveillance becomes normalized in public institutions and workplaces, a society’s baseline mental health can degrade as an infrastructural outcome—not merely an individual pathology.
+
+---
+
+## 4. The Tech New Deal: A Federal Standard for Dignity and Sustainability
+
+### 4.1 Why We Need a “New Deal” Structure
+The original New Deal was not simply a collection of programs—it was a new governance logic for institutional legitimacy: the state had a duty to protect the material conditions of life and prevent systemic exploitation. Today’s extraction economy requires an analogous update: a federal framework that treats dignity, not surveillance efficiency, as the legitimacy foundation of technology deployment.
+
+### 4.2 The Dignity Baseline
+This paper proposes a **Dignity Baseline** as a federal enforceable constraint for technology governance: a minimum threshold of non-extractive access to essential capabilities. The baseline includes food, water, healthcare, shelter, and community.
+
+This is grounded in the capabilities approach (Nussbaum), which defines justice through the substantive freedoms people possess to live a life worthy of dignity rather than abstract resource totals. Federal implication: essential capabilities must not be conditioned on behavioral harvesting, coercive surveillance consent, or algorithmic eligibility inference beyond necessity.
+
+### 4.3 Total Sustainability (Ecological + Psychosocial + Physical)
+To complement dignity constraints, the Tech New Deal introduces **Total Sustainability**, requiring that high-impact systems remain aligned with long-term ecological and human vitality.
+
+1.  **Ecological Sustainability:** Systems that require constant expansion of surveillance compute must be evaluated as ecological liabilities, not neutral tools (Nature, 2024).
+2.  **Psychosocial Sustainability:** A system that produces chronic anxiety or erodes autonomy fails human sustainability (NIH/PMC, 2024).
+3.  **Physical Sustainability:** Monitoring and optimization systems—especially in work contexts—can increase injury and bodily strain through pace enforcement and fear-based productivity (HR Dive, 2026).
+
+### 4.4 A Simple Federal Compliance Standard
+A federal implementation advantage of this framework is that it can be operationalized as a clear test. A system is non-compliant with the Tech New Deal if it fails any of the following:
+
+* [ ] **Non-Extraction:** Does not collect behavioral or biographical data beyond necessity.
+* [ ] **No Inferred Intent:** Does not use prediction of intent/risk for liberty or essential-access decisions.
+* [ ] **Dignity Baseline Preserved:** Capability access remains available without coercion.
+* [ ] **Total Sustainability Met:** Ecological/psychosocial/physical thresholds reported and enforced.
+* [ ] **Auditable Accountability:** Independent oversight access exists with enforceable remedies.
+
+---
+
+## 5. The Authenticity Revolution: From Inference to Verifiable Integrity
+
+### 5.1 The Inferred Intent Problem
+Modern digital systems rely on **inferred intent**: guessing what users want, what they will do, or what risks they embody. In commercial systems, this becomes behavioral targeting. In state systems, it becomes anticipatory governance: treating people as future risks.
+
+Inferred intent is inherently extractive because it requires behavioral capture. It is inherently unstable because it mistakes correlation for meaning.
+
+### 5.2 Privacy-Preserving Verification Infrastructure
+The Authenticity Revolution proposes replacing inference-based governance with **verification-based integrity**. Rather than predicting people, systems should verify limited facts required for legitimate decisions—without collecting surplus data.
+
+This is enabled through:
+* Decentralized identity (DIDs)
+* Verifiable credentials (VCs)
+* Zero-knowledge proofs (ZKPs)
+
+ZKPs are especially significant because they enable verification without disclosure: proving an eligibility condition without exposing full identity or behavioral trails. This is the core technical mechanism for enforcing non-extractive participation.
+
+### 5.3 From Behavioral Surplus to Verifiable Integrity
+This paper proposes a new objective function for technology governance: **Replace behavioral surplus maximization with verifiable integrity maximization.**
+
+Integrity systems do not require constant human surveillance. They require provable commitments, minimal necessary verification, auditability, and enforceable accountability. This also creates a pathway to real liability structures. If systems must prove integrity conditions, harms become more measurable, attributable, and legally actionable.
+
+---
+
+## 6. Federal Policy Package: The Tech New Deal as Implementable Governance
+
+### 6.1 Federal Procurement and Funding Restrictions
+**Recommendation:** Restrict federal procurement and federal funding eligibility for high-risk extractive systems, including:
+* Predictive policing tools that generate individual risk scores.
+* Hotspot forecasting systems derived from biased enforcement histories.
+* RTCC deployments lacking independent evaluation access.
+* Surveillance systems without enforceable minimization constraints.
+
+### 6.2 Mandatory Dignity Impact Assessments (DIA)
+**Recommendation:** Require pre-deployment and annual Dignity Impact Assessments for covered systems.
+Minimum DIA requirements:
+* Civil rights risk analysis.
+* Due process risks and error pathways.
+* Discriminatory effect testing.
+* Psychosocial surveillance harms.
+* Community consultation evidence.
+
+### 6.3 Total Sustainability Reporting
+**Recommendation:** Require annual Total Sustainability reporting for covered systems and federally funded deployments, covering compute/energy footprint, supply chain burdens, and documented psychosocial/physical harms.
+
+### 6.4 Community Governance Requirements
+**Recommendation:** Any federally funded public safety surveillance deployment must include public notice, community hearings, and meaningful democratic participation mechanisms.
+
+### 6.5 Strict Liability + Private Right of Action
+**Recommendation:** Establish strict liability for systems that violate the Dignity Baseline or produce discriminatory harms, plus a private right of action enabling harmed individuals to sue.
+
+### 6.6 The Right to Non-Extraction
+**Recommendation:** Establish a federal civil right to access essential services and capabilities without surrendering behavioral data beyond necessity.
+
+---
+
+## 7. Implementation Roadmap (Federal Timeline)
+
+**Phase 1: 0–12 Months**
+* Restrict federal procurement of predictive policing and high-risk surveillance tech.
+* Establish Dignity Impact Assessment requirement.
+* Initiate NIST-aligned verification and minimization standards development.
+* Begin oversight reporting requirements for federally funded deployments.
+
+**Phase 2: 12–24 Months**
+* Implement Total Sustainability reporting regime.
+* Launch privacy-preserving verification pilots for essential-services eligibility.
+* Deploy independent audit and community governance requirements for grants.
+
+**Phase 3: 2–5 Years**
+* Enforce strict liability regime.
+* Embed Right to Non-Extraction into federal civil rights framework.
+* National adoption of verifiable integrity architecture for high-impact systems.
+* Formal deprecation of inferred-intent systems for liberty and essential access decisions.
+
+---
+
+## 8. Conclusion: From Extraction to Integrity
+
+The predictive policing crisis is not an isolated controversy. It is the clearest symptom of a broader extractive order: institutional technology increasingly treats human beings as data surfaces to be predicted rather than persons to be respected.
+
+As long as technology remains optimized for extraction, inference, and behavior control, harms will reproduce: bias will persist as a feedback loop, surveillance will degrade mental health and civic trust, and ecological/physical costs will escalate.
+
+The Tech New Deal and Authenticity Revolution offer a unified alternative: a federal governance framework that enforces dignity and sustainability as constraints, while enabling secure, privacy-preserving verification instead of totalizing surveillance. This is not merely a technical reform agenda. It is a constitutional and civilizational choice: **Do we govern through extraction and inference, or through integrity and dignity?**
+
+---
+
+## Bibliography
+
+* Algorithm Watch. (2025). *Algorithmic policing: When predicting means presuming guilty.*
+* Ellen MacArthur Foundation. (2025). *The circular economy as a tool for innovation and climate action in North America.*
+* HR Dive. (2026). *Digital surveillance may increase worker anxiety, injuries.*
+* Human Rights Data Analysis Group. (2019). *How predictive policing reinforces bias.*
+* National Institutes of Health / PMC. (2024). *Exploring the impact of security technologies on mental health.*
+* Nature. (2024). *Digital surveillance capitalism and cities.*
+* Nature. (2024). *How human–AI feedback loops alter human perceptual, emotional and social judgements.*
+* OECD Observatory of Public Sector Innovation. (2024). *Radical participatory design in government.*
+* Taylor & Francis Online. (2022). *Participatory policy design: igniting systems change through co-creation.*
+* Tech Policy Press. (2024). *Politicians move to limit predictive policing after years of controversial failures.*
+* The Markup. (2023). *Predictive policing software terrible at predicting crimes.*
+* US Senate. (2025). *S.2164 – Algorithmic Accountability Act of 2025.*
+* UTS Online Education. (2025). *How surveillance technology is changing our behaviour and our brains.*
+* Zuboff, S. (2019). *The age of surveillance capitalism.* PublicAffairs.
