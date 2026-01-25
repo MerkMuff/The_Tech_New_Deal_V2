@@ -1,0 +1,41 @@
+# The Tech New Deal & The Authenticity Revolution
+
+> **A Federal Sociotechnical Framework for Dismantling Extractive Systems and Governing High-Risk Technology.**
+
+## Overview
+
+This repository contains the policy framework and theoretical text for **The Tech New Deal**. This work argues that the crisis of modern technology—specifically in predictive policing and algorithmic governance—is not a bug of "bias," but a structural feature of **Extractive Simulation**. 
+
+Current systems are optimized to extract behavioral surplus and infer intent. This project proposes a shift toward **Verifiable Integrity**, using a combination of federal policy guardrails (The Tech New Deal) and privacy-preserving technical architecture (The Authenticity Revolution).
+
+## Core Concepts
+
+### 1. The Tech New Deal
+A governance standard requiring that high-impact systems comply with:
+* **The Dignity Baseline:** Ensuring non-extractive access to essential capabilities (food, shelter, community).
+* **Total Sustainability:** Enforcing ecological, psychosocial, and physical sustainability thresholds for AI and surveillance infrastructure.
+
+### 2. The Authenticity Revolution
+A technical governance shift from *Inferred Intent* (prediction) to *Verifiable Integrity* (proof). This advocates for the replacement of surveillance-heavy prediction models with:
+* Decentralized Identity (DIDs)
+* Verifiable Credentials (VCs)
+* Zero-Knowledge Proofs (ZKPs)
+
+## Contents
+
+* [`PAPER.md`](PAPER.md): The full text of the framework, formatted for academic and policy review.
+* `LICENSE`: The usage license for this work (CC BY 4.0).
+
+## Usage & Citation
+
+This framework is open for review, fork, and adaptation by policy makers, technologists, and sociologists. 
+
+**Preferred Citation:**
+> Ross, J. J. (2026). *The Tech New Deal & the Authenticity Revolution: A Federal Sociotechnical Framework*.
+
+## Status
+**Current Version:** 1.0 (Draft for Federal Review)
+**Date:** January 2026
+
+## Contact
+[Insert Contact Info or Link to Profile]
